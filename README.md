@@ -54,7 +54,7 @@ First you will learn how to compose a VQE simulation for the smallest molecule a
 
 g blocks of parameterized circuits and compose them to construct the most compact ansatz circuit for the ground state, better than the ones already available in Qiskit.
 
-## Thank you very much for following me on my IBM Quantum Challenge 2021 journey, I hope some of what I said was helpful for as many people as possible. This year’s challenge was a great opportunity to learn and further our Qiskit skills together as a community. Over 1400 participants submitted at least one answer which is a great testament to the challenge as a whole.
+## Thank you very much for following me on my IBM Quantum Challenge 2021 journey. This year’s challenge was a great opportunity to learn and further our Qiskit skills together as a community. Over 1400 participants submitted at least one answer which is a great testament to the challenge as a whole.
 One big final thanks to the organisers of the challenge!!!
 
 
