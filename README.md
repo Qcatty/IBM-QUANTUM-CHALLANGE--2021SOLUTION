@@ -27,10 +27,10 @@ So whenever we apply this matrix to some single qubit state |𝜓⟩ we get
 The resulting superposition is composed of the original state, the state we'd have if the error was just a bit flip, the state for just a phase flip and the state for both. If we had some way to measure whether a bit or phase flip happened, the state would then collapse to just one possibility. And our complex error would become just a simple bit or phase flip.
 
 So how do we detect whether we have a bit flip or a phase flip (or both). And what do we do about it once we know? Answering these questions is what quantum error correction is all about.
-####GOAL
+/The main goal
 Create circuits which can detect x and z errors on two qubits. You can come up with a solution of your own. Or just tweak the almost valid solution given below.
 ## Exercise 4 - Transmon qubit
-####GOAL
+/the main goal
 
 Find |1⟩→|2⟩ transition frequency 𝑓12.
 
